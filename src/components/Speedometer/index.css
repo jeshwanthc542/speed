@@ -1,0 +1,11 @@
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/speedometer-img.png');
+  height: 100vh;
+  background-size: cover;
+  padding-top: 40px;
+}
+
+.head {
+  color: #ffffff;
+  font-family: 'roboto';
+}
